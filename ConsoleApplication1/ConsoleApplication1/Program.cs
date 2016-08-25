@@ -20,7 +20,8 @@ namespace ConsoleApplication1
     {
         public void hellotest()
         {
-            Console.WriteLine("helloworld!");
+            Console.WriteLine("helloworld!1");
+            Console.WriteLine("helloworld!2");
         }
 
     }
